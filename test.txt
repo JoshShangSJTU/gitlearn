@@ -1,0 +1,1 @@
+A test text for push, merge and rebase.
